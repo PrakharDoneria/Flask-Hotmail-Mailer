@@ -2,7 +2,8 @@
 
 `hotmail-flask-mailer` is a Flask-based library for sending emails through Microsoft's Hotmail/Outlook service using the `mailer` package. This library provides a simple API for saving email credentials and sending emails.
 
-##Features
+
+## Features
 
 - Easily send emails through a Flask API endpoint.
 - Save email credentials securely within your application.
